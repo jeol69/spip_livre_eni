@@ -1,0 +1,1 @@
+2017-08-22 17:12:28 127.0.0.1 (pid 10152) :Pub:ERREUR: infos oembed brutes pour https://www.youtube.com/watch?v=U-hsrP4C-RQ | https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU-hsrP4C-RQ&maxwidth=600&maxheight=400&format=json&scheme=https : ECHEC Status 0 Error 56 Received HTTP code 503 from proxy after CONNECT

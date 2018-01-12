@@ -1,0 +1,56 @@
+<?php
+  $url_accueil = "http://spip316.localhost/?page=sommaire2";
+?><!DOCTYPE html>
+<html lang="#LANG">
+    <head>
+
+        [(#REM) Inclure le <head> des pages] 
+        <INCLURE{fond=inclure/head2}>
+
+    </head>
+    <body>
+        [(#REM) Inclure l’en-tête du site] 
+        <INCLURE{fond=inclure/entete}>
+
+        [(#REM) Inclure la barre de navigation] 
+        <INCLURE{fond=inclure/navigation}>
+
+        [(#REM) Contenu de la page d’accueil] 
+        <div class="row">
+            <div class="small-12 large-6 columns">
+                <BOUCLE_articles_accueil_1(ARTICLES){id_article=19}>
+                    <h2><a href="#URL_ARTICLE">#TITRE</a></h2>
+                    #LOGO_ARTICLE
+                    <p>#CHAPO</p>
+                </BOUCLE_articles_accueil_1>
+            </div>
+            <div class="small-12 large-6 columns">
+                <BOUCLE_articles_accueil_2(ARTICLES){id_article=18}>
+                    <h2><a href="#URL_ARTICLE">#TITRE</a></h2>
+                    #LOGO_ARTICLE
+                    <p>#CHAPO</p>
+                </BOUCLE_articles_accueil_2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-12 large-6 columns">
+                <BOUCLE_articles_accueil_3(ARTICLES){id_article=17}>
+                    <h2><a href="#URL_ARTICLE">#TITRE</a></h2>
+                    #LOGO_ARTICLE
+                    <p>#CHAPO</p>
+                </BOUCLE_articles_accueil_3>
+            </div>
+            <div class="small-12 large-6 columns">
+                <BOUCLE_articles_accueil_4(ARTICLES){id_article=16}>
+                    <h2><a href="#URL_ARTICLE">#TITRE</a></h2>
+                    #LOGO_ARTICLE
+                    <p>#CHAPO</p>
+                </BOUCLE_articles_accueil_4>
+            </div>
+        </div>
+
+        [(#REM) Inclure le pied de page du site] 
+        <INCLURE{fond=inclure/pieddepage}>
+
+    </body>
+</html>

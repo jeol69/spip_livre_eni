@@ -1,0 +1,544 @@
+2017-08-24 18:31:20 127.0.0.1 (pid 10392) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-24 18:31:20 127.0.0.1 (pid 10392) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-24 18:31:20 127.0.0.1 (pid 10392) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-28 11:16:46 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:16:47 127.0.0.1 (pid 6776) :Pub:ERREUR: Le serveur '' version 1 n'a pas 'showbase'
+2017-08-28 11:16:47 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:16:47 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:04 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:04 127.0.0.1 (pid 6776) :Pub:ERREUR: Le serveur '' version 1 n'a pas 'showbase'
+2017-08-28 11:17:04 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:04 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:15 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:15 127.0.0.1 (pid 6776) :Pub:ERREUR: Le serveur '' version 1 n'a pas 'showbase'
+2017-08-28 11:17:15 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:17:15 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:18:14 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:18:14 127.0.0.1 (pid 6776) :Pub:ERREUR: Le serveur '' version 1 n'a pas 'showbase'
+2017-08-28 11:18:14 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 11:18:14 127.0.0.1 (pid 6776) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:22 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:22 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:06:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:22 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:22 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:23 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:40 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:07:43 127.0.0.1 (pid 12384) :Pub:!INFO: spip_connect: fichier de connexion 'config/connect.php' OK.
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2b014c18e940106acf0d12b9f17ae270.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache f42a717ac1b4ed516f3e22d410a5cac6.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-08-28 15:13:43 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-08-28 15:13:44 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2a24170db8c66356199d513e1c81b66f.cache pour 86400 secondes
+2017-08-28 15:13:44 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-28 15:13:45 127.0.0.1 (pid 12384) :Pub:ERREUR: Erreur connexion 0 php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+2017-08-28 15:16:45 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 03d7ab19bb8b998edb7e686834faaa8b.cache pour 86400 secondes
+2017-08-28 15:16:54 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache da6c850ff55ed5ad80795be266555022.cache pour 86400 secondes
+2017-08-28 15:21:54 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 133dd19ccfb6b605237b2e826531aa25.cache pour 604800 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache f591236a0a2cabd36ccfd6afb3aafc48.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 22cfa2421e00f967c9955f25ab20f675.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache e2e85acd4988a0606c875d7f40aef12c.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache d0f212ab6fa798060e3d46067bb3527e.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 24144318cb62ad8bc9b604a678642a4b.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache dc01acc302ca05576e202b96b2944a94.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 3b62a96b943c973411a592e0f9b4745d.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 8d9f9f1ceeb567fd9c2581e3da185d2a.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 9df15d489ed8f630a5d52e802291ef22.cache pour 360000 secondes
+2017-08-28 15:21:55 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache ba542ff036f9aecdb5f6a72486b5e5c7.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 11c19a76820ffd80aad484aa816127e1.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache fc7ad302846a36dee08bca3b1f7d5ebc.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache cfc647e6a875767b58d00fd7f6340cb1.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache e62c4b14440201dfe6224220acae66bc.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 4849ae53f10518bc8b28ca828fa2506c.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache f4abfe02120fcd5bd018182c1e2248f4.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache d4142bb8d003e84a5914356fe632020f.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 636db3745e24d1b176ee0fa0d2d0f416.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache f6c81943a51033ddc72304a3afc45dfc.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 411478c510f801a07eb22534d7cc8f73.cache pour 360000 secondes
+2017-08-28 15:21:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 1ad9695b5eec123ba09b06e91ff237c4.cache pour 360000 secondes
+2017-08-28 15:21:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache d635ee04213d7e9f9e9bc204aecb5823.cache pour 360000 secondes
+2017-08-28 15:21:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache ed98f8e453d9bc6e82fcfbe826ea6f2a.cache pour 360000 secondes
+2017-08-28 15:21:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache ded17b1b4e75ba992e8ffb50d388074d.cache pour 360000 secondes
+2017-08-28 15:21:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 9dc247c8b1dafbe5a8aefeec344baed8.cache pour 360000 secondes
+2017-08-28 15:21:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache c1919120555179a9020bff3aeb7bdaf2.cache pour 360000 secondes
+2017-08-28 15:21:58 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 04b066c645eb793d24a2caa935260f9c.cache pour 360000 secondes
+2017-08-28 15:22:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 554b3c051796a9dca00c28cadda549ff.cache pour 604800 secondes
+2017-08-28 15:22:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache be6371fa87c003af75fdc64e6a336b7a.cache pour 86400 secondes
+2017-08-28 15:22:36 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 16405fff41ba9d63ef7b083bcfc996c2.cache pour 86400 secondes
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:!INFO: Copier 31 tables de '' vers 'dump'
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:!INFO: Vider 31 tables sur serveur 'dump' : spip_articles, spip_auteurs, spip_auteurs_liens, spip_breves, spip_depots, spip_depots_plugins, spip_documents, spip_documents_liens, spip_forum, spip_groupes_mots, spip_jobs, spip_jobs_liens, spip_messages, spip_meta, spip_mots, spip_mots_liens, spip_paquets, spip_petitions, spip_plugins, spip_referers, spip_referers_articles, spip_rubriques, spip_signatures, spip_syndic, spip_syndic_articles, spip_types_documents, spip_urls, spip_versions, spip_versions_fragments, spip_visites, spip_visites_articles
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_articles - 
+DELETE FROM spip_articles - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_articles - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_auteurs - 
+DELETE FROM spip_auteurs - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_auteurs - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_auteurs_liens - 
+DELETE FROM spip_auteurs_liens - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_auteurs_liens - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_breves - 
+DELETE FROM spip_breves - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_breves - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_depots - 
+DELETE FROM spip_depots - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_depots - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_depots_plugins - 
+DELETE FROM spip_depots_plugins - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_depots_plugins - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_documents - 
+DELETE FROM spip_documents - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_documents - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_documents_liens - 
+DELETE FROM spip_documents_liens - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_documents_liens - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_forum - 
+DELETE FROM spip_forum - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_forum - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_groupes_mots - 
+DELETE FROM spip_groupes_mots - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_groupes_mots - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_jobs - 
+DELETE FROM spip_jobs - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_jobs - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_jobs_liens - 
+DELETE FROM spip_jobs_liens - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_jobs_liens - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_messages - 
+DELETE FROM spip_messages - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_messages - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_mots - 
+DELETE FROM spip_mots - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_mots - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_mots_liens - 
+DELETE FROM spip_mots_liens - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_mots_liens - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_paquets - 
+DELETE FROM spip_paquets - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_paquets - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_petitions - 
+DELETE FROM spip_petitions - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_petitions - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_plugins - 
+DELETE FROM spip_plugins - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_plugins - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_rubriques - 
+DELETE FROM spip_rubriques - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_rubriques - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_signatures - 
+DELETE FROM spip_signatures - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_signatures - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_syndic - 
+DELETE FROM spip_syndic - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_syndic - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_syndic_articles - 
+DELETE FROM spip_syndic_articles - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_syndic_articles - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_types_documents - 
+DELETE FROM spip_types_documents - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_types_documents - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_urls - 
+DELETE FROM spip_urls - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_urls - query inconnue - C:\applications\spip\spip_316\ecrire\base\connect_sql.php L168 [sql_error(),spip_sql_erreur(),sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: no such table: spip_versions - 
+DELETE FROM spip_versions - C:\applications\spip\spip_316\ecrire\base\dump.php L367 [sql_delete(),base_vider_tables_destination_copie(),base_copier_tables(),inc_sauvegarder_dist(),action_sauvegarder_dist(),traiter_appels_actions()]
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:ERREUR: Erreur sqlite HY000 / 1
+2017-08-28 15:29:22 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache cea424b30ab282e373164ef6d22264ba.cache pour 86400 secondes
+2017-08-28 15:37:56 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 489d57bf2d7d11eab2e2b6946f402ede.cache pour 86400 secondes
+2017-08-28 15:53:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b8835c5d96eda6a260829801f4913c95.cache pour 86400 secondes
+2017-08-28 15:53:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-28 15:53:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-28 15:53:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-28 15:53:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-28 16:09:01 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4733ac768ac91586dd4888b9d644459c.cache pour 86400 secondes
+2017-08-28 16:09:34 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 939261ea58b4be0ebe560ebcc5053edf.cache pour 86400 secondes
+2017-08-28 16:09:41 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 5bfd28f5fc2f9242b7471d54ddebce36.cache pour 86400 secondes
+2017-08-28 16:09:48 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-28 16:09:57 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache c1cc75ce6c6fe31d7bf0590a62ac620e.cache pour 86400 secondes
+2017-08-28 16:10:32 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache c1cc75ce6c6fe31d7bf0590a62ac620e.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4733ac768ac91586dd4888b9d644459c.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-28 16:20:26 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-28 16:23:38 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-28 16:23:47 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 6e6521d3c7a3084fa4e664733e26e821.cache pour 86400 secondes
+2017-08-28 16:23:49 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 226a1dd52369f23dbca775adc03c6522.cache pour 86400 secondes
+2017-08-28 16:25:20 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 46ce2f96baaced6baceff2811ab13e5c.cache pour 86400 secondes
+2017-08-28 16:26:54 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 939261ea58b4be0ebe560ebcc5053edf.cache pour 86400 secondes
+2017-08-28 16:27:03 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 34c26d899c0bd4a86f75d89b204bbc7b.cache pour 86400 secondes
+2017-08-28 16:27:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 6170915016fe4f2304fc495686c753bc.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 6f202167717a2145dcfedda3564f0708.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache eb568b61919c2f9ae4da12df85edde55.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-08-28 16:27:29 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 07b7824b6dcb7f15c0618e624070e706.cache pour 86400 secondes
+2017-08-28 16:27:30 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-08-28 16:27:30 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-08-28 16:27:32 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 02fe83fc464709ebdab181e644be5e15.cache pour 604800 secondes
+2017-08-28 16:30:30 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 391b33f3ef2f9870f42a317b9d46771e.cache pour 86400 secondes
+2017-08-28 16:30:38 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 51b45024cd290ecbaf01b9ee9d8c3631.cache pour 86400 secondes
+2017-08-28 16:34:32 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 6ddaa6135714216fe8523c136ffa9cbc.cache pour 86400 secondes
+2017-08-28 16:35:04 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 65f2ed42e9ff5ea131eb3cde4356e33e.cache pour 86400 secondes
+2017-08-28 16:35:10 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache db6c562ccd6de9af727d3b53bd230714.cache pour 86400 secondes
+2017-08-28 16:35:14 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 226229269d3ca295050358e53a446bdd.cache pour 86400 secondes
+2017-08-28 16:35:17 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b4e20e12fc0ba6d146713ae1357901aa.cache pour 86400 secondes
+2017-08-28 16:35:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache a7ec2b77788ea19d7842b0168f873f61.cache pour 86400 secondes
+2017-08-28 16:35:22 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 81fade74cf815f1bd3bda4aa4a0bd9a5.cache pour 86400 secondes
+2017-08-28 16:51:02 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 3a8b6e9fc4b10fe296e83d7d6f35a51a.cache pour 86400 secondes
+2017-08-28 16:51:58 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 27191308f2631211f17f7c243b0317f4.cache pour 86400 secondes
+2017-08-28 16:52:05 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 02f6d5354b90aad799c701a148a91c28.cache pour 86400 secondes
+2017-08-28 16:53:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-28 16:53:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-28 16:53:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-28 16:53:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-28 16:53:20 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-28 16:53:21 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-28 16:53:24 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 6e6521d3c7a3084fa4e664733e26e821.cache pour 86400 secondes
+2017-08-28 16:53:34 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 27191308f2631211f17f7c243b0317f4.cache pour 86400 secondes
+2017-08-28 16:54:27 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4733ac768ac91586dd4888b9d644459c.cache pour 86400 secondes
+2017-08-28 16:56:01 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 133dd19ccfb6b605237b2e826531aa25.cache pour 604800 secondes
+2017-08-28 16:56:01 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 69b4606548f40575859592578aef0934.cache pour 360000 secondes
+2017-08-28 16:56:01 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 1da77bd616a9528fa11c6c56b170d8e1.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 7659d1c47e1bf5293ac733432920db6e.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache a6fe9c7ea5d15efb9e9f0d30274f8a88.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 817e82d817af41bb79669c9715283ba1.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache d1cc1e3820981d9228fbd27a1dcc7d45.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 5fe8fc1c3d2ff511f2829f037ebb9fe1.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache c8a7ba0085b9eb0cd29cc796f8a8e62a.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 340060aec2c4f96c36bc1f90190ec3c8.cache pour 360000 secondes
+2017-08-28 16:56:02 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 7426242e201dba2d7d4d329c51dde807.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache de7999870f52d5f375278cd88430cfdb.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 9301c3b2204faa6b2c0a33f7a0f8a627.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 4fa7751b785ca87576096bf5a85cb29d.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache f5a73e4368323e1396f341bbe1ec289d.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache dab54c5ead5a8b621658ec4ad817ce55.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 92ca74e8100b11a84f38ad400af1aeaa.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache ec3f48768041995bbb84f866cb7655a9.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 2cb975162b4762f39b93931b1dbb6701.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache adfdf71167ff5e7aa8dab2383fdd886e.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache bbb3f34400961bdc2a7078cc165d6643.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache d03c90f320b55e56de60f263b3dfff4d.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 837179154eb7b02c92db28bf25d69f51.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 9137910c928fb739f31c8aea87d44a40.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache dd648ee015ee26ee5a74096f33d40d24.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 188b27b91f4d257af6593ec78c895a3d.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache c1919120555179a9020bff3aeb7bdaf2.cache pour 360000 secondes
+2017-08-28 16:56:03 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 04b066c645eb793d24a2caa935260f9c.cache pour 360000 secondes
+2017-08-28 16:56:06 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 554b3c051796a9dca00c28cadda549ff.cache pour 604800 secondes
+2017-08-28 16:56:07 127.0.0.1 (pid 12384) :Pri:!INFO: Creation du cache 7cc7061c758b05d44d8f10e046117438.cache pour 86400 secondes
+2017-08-28 16:56:21 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4733ac768ac91586dd4888b9d644459c.cache pour 86400 secondes
+2017-08-28 16:56:21 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-28 16:56:21 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-28 16:56:21 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-28 16:56:22 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-28 16:56:22 127.0.0.1 (pid 12384) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-29 16:57:56 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 844b62449b3019bf46ef012f4b01b233.cache pour 86400 secondes
+2017-08-29 16:57:56 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-29 16:57:56 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-29 16:57:56 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-29 16:57:57 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-29 16:57:57 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-29 16:59:21 127.0.0.1 (pid 5612) :Pub:!INFO: Creation du cache 736314ab630854eb4506df4926c8210e.cache pour 86400 secondes
+2017-08-29 17:00:47 127.0.0.1 (pid 5612) :Pri:!INFO: Creation du cache 97a2eb9f7ceae8fcde88a12ff79bc4a1.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 7eb200d89943a1f56216bdd18d9ff5dd.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 02f3ec6ea145bab838782d843e2dcac4.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-08-31 13:40:04 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-08-31 13:40:05 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 2422c663b15d252390ed7748dc680c46.cache pour 86400 secondes
+2017-08-31 13:40:05 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-08-31 13:40:05 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-08-31 13:40:06 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-31 13:40:14 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache bedbc3db2f284eb1bce1ef364813b75e.cache pour 86400 secondes
+2017-08-31 13:40:24 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache fc4f3a322427a32f9f2d39b8e912cfd3.cache pour 86400 secondes
+2017-08-31 13:42:28 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 689f912deedc5de4c994f2c417e805ea.cache pour 86400 secondes
+2017-08-31 13:45:11 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 359dce30a16b457bb49af5cfa8bf3504.cache pour 86400 secondes
+2017-08-31 13:47:27 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 51602dd497119a2d58677503b3225520.cache pour 86400 secondes
+2017-08-31 13:49:45 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 4657211fbf35871c2d93e1c66b099d72.cache pour 86400 secondes
+2017-08-31 13:49:53 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a29c6b447947740d5b063f7810eb2d25.cache pour 86400 secondes
+2017-08-31 14:18:25 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 9f218fb5280e44b28934b2c6de100384.cache pour 86400 secondes
+2017-08-31 14:18:27 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 02fe83fc464709ebdab181e644be5e15.cache pour 604800 secondes
+2017-08-31 14:18:38 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 568f7c3989e44aced802dcfbc4f5c9e2.cache pour 86400 secondes
+2017-08-31 14:18:54 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b8835c5d96eda6a260829801f4913c95.cache pour 86400 secondes
+2017-08-31 14:18:54 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-31 14:18:54 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-31 14:19:07 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 1be28369d8b6d1dda7eb2ab70737570b.cache pour 86400 secondes
+2017-08-31 14:19:07 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 31ced7d28d367b71d4469b5bb9c5dd7f.cache pour 86400 secondes
+2017-08-31 14:19:07 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 8b1b1fefb1fc8ab7d50917629598ddf1.cache pour 86400 secondes
+2017-08-31 14:19:07 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 3a9e50b7838fb550d3557a7634592f85.cache pour 86400 secondes
+2017-08-31 14:19:07 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 689fd537c566e9474167c8fdfb665660.cache pour 86400 secondes
+2017-08-31 14:19:13 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 9b1b116a0c8be15c369652879a97abc5.cache pour 86400 secondes
+2017-08-31 14:49:47 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-08-31 14:50:11 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache e790cc0562c6c75f9d3883d35f04e637.cache pour 86400 secondes
+2017-08-31 14:50:11 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache a66acb9331f1500f7987154c3ce382aa.cache pour 86400 secondes
+2017-08-31 14:50:12 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 2f12ac16775df16d08856012ef4d8262.cache pour 86400 secondes
+2017-08-31 14:50:12 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b2118c446e85b40f896c1755fefbfbc5.cache pour 86400 secondes
+2017-08-31 14:50:21 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 38112827d2bd3449aba5764185c74277.cache pour 86400 secondes
+2017-08-31 14:50:33 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-31 14:55:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache afe557e228830eb9b75706eb4d66cf6f.cache pour 86400 secondes
+2017-08-31 14:57:29 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-31 14:57:29 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-31 14:57:29 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-31 14:57:29 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 133dd19ccfb6b605237b2e826531aa25.cache pour 604800 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 15ce2f2d055416bcc7b8c3147b9ab234.cache pour 360000 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 4426593d09813f5f8c2552f3a4d2fb5a.cache pour 360000 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 5eee888225b65e3f49a761c967697a55.cache pour 360000 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache e78481f005af076621249e78c837df0e.cache pour 360000 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache f1a250afda560eb172d40a1924b19fa7.cache pour 360000 secondes
+2017-08-31 15:00:46 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache d999d3edaa3bca4bed9287c4d43b1acd.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache cef058411d81dfc545fb9ba54c63f010.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache ce0cc9f6c0d8f3b818e0fe47f910bd8f.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache b39bc29963f1ffa0cda4c0c1a4419e45.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a08259914839ee5bd73cc53130e3f56a.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache aabd9e73f71e73bb10e029c95a168fb9.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 0cd3f04800fbca94dc324dc6946f19eb.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 86a221b43802edc7fa706ea9fe950233.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 396a95c07eba80350f17bf0bd4d71cb9.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 860cb69c70cb800c3f57335d7353fa42.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 7657d4544f992e57b117d25bf86a7bca.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache bec50de400cb9baafafb9839a50ba1ed.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 2ad605739815136dec4c40448ec11e90.cache pour 360000 secondes
+2017-08-31 15:00:47 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache f530dbec2a045bcfde90c37e374119c5.cache pour 360000 secondes
+2017-08-31 15:00:48 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a8fe2a3abf3f11ad20e1fb35d4f4e33a.cache pour 360000 secondes
+2017-08-31 15:00:48 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache cca01046326845703904cc30689561cf.cache pour 360000 secondes
+2017-08-31 15:00:48 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 3d06e3b862f28c2baee9503b9780542f.cache pour 360000 secondes
+2017-08-31 15:00:48 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 64de187ab1384ed0c1064b54ea3c4518.cache pour 360000 secondes
+2017-08-31 15:00:49 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a00ed7d5ebacdb0cd32587578f4fdecf.cache pour 360000 secondes
+2017-08-31 15:00:49 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 43fcec6899872d0c35c6326ae916043d.cache pour 360000 secondes
+2017-08-31 15:00:49 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache c1919120555179a9020bff3aeb7bdaf2.cache pour 360000 secondes
+2017-08-31 15:00:49 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 04b066c645eb793d24a2caa935260f9c.cache pour 360000 secondes
+2017-08-31 15:00:54 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-31 15:01:13 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-08-31 15:01:13 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-08-31 15:01:13 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-08-31 15:01:13 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache d9eae0860fd9e1a79c04429d4b2fc0d1.cache pour 86400 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 932a4c36ed0d4463e9c6b802389f736e.cache pour 86400 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache f6abb4f3a35378e3bc62c35d7c9d72c5.cache pour 86400 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-08-31 15:01:14 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 133dd19ccfb6b605237b2e826531aa25.cache pour 604800 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 858aed944780c98f204c016407fec444.cache pour 360000 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache e9b582a83a5d197da9d6ad182d08f948.cache pour 360000 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 29ccdf1b5c899da3b336531fddd40943.cache pour 360000 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 6496bc0e62720f79eb03a0e477c0da7f.cache pour 360000 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 70e3525de8f5a51f059a5132d6645aff.cache pour 360000 secondes
+2017-08-31 15:01:18 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache e5b2da4ab5caf7f12cb8bdc2168b1752.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 00e8d02e6891eb33d8580d81a0c08a4a.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 6d3987fbfb1357671c24ff27f8faf3e2.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 81a892ebdd87c1ca7489ae3cf9f13325.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 9e0020f40d4aa305e6e9ea07b98a47b2.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 5e6f4128e131e64257cf051f3f54dadc.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 4f67974260108694585d333d1645223e.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 861b8eb77e923235d00dea86ad96f686.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache d044d947a3f8388ab0fe9b0bfa4c9e2e.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 05bdfdcb1256ffce85bb222d24acdb5e.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 324277bbf5d36ac76cd82c99559ceb5d.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 0a11af91070c76c649448f1fbdf1452f.cache pour 360000 secondes
+2017-08-31 15:01:19 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache e95b40f71e72d07d1b0c86a7ea402558.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 64fce68fac45d7fba5a3bced46ba6801.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 7490cd185e3a967a9494610aa0c476ce.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 34b9ed290ccbaf96404ee4e2df6eb00e.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache b5db373b47f9e8bafa6c4ad2682b7a03.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 4fe15cbfe76893ccd6bb5ef639c72c46.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache b79695c4d7aff719ddbe9bed1b099171.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 6fdc103dc0b33fc3e178bd955c99fdc9.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache c1919120555179a9020bff3aeb7bdaf2.cache pour 360000 secondes
+2017-08-31 15:01:20 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 04b066c645eb793d24a2caa935260f9c.cache pour 360000 secondes
+2017-08-31 15:01:23 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 554b3c051796a9dca00c28cadda549ff.cache pour 604800 secondes
+2017-08-31 15:01:26 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache d9556c5570fcda0e06e6c5ae74ad8427.cache pour 86400 secondes
+2017-08-31 15:01:58 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-08-31 15:01:58 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-08-31 15:01:59 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-08-31 15:01:59 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-08-31 15:01:59 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-08-31 15:01:59 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-08-31 15:02:08 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 133dd19ccfb6b605237b2e826531aa25.cache pour 604800 secondes
+2017-08-31 15:02:08 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 8ff97463ff27d3f1e65144ebfb90224a.cache pour 360000 secondes
+2017-08-31 15:02:08 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache f7d249ce0b225af60a72b25e1ed041bd.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache e0f7c7e94ad9397f6f217f043f1c8a8e.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 802a23fde410c34bc85335ca6286befc.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache cbeb06a0dbc067a094e56b9f61591819.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 734e69882d882473a100c1269a8b6683.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 6c6cd7f06e18f9f3a2769c04bec88ef6.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 9dfa6d5fdad609425d8499f0e09fb116.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 89d98d249d48a8a0440554bcc7aa23a7.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a0cdc3cfa066c0f73bf2fde63d96a278.cache pour 360000 secondes
+2017-08-31 15:02:09 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 3924e39ee461c96cab21f7188151fbfd.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache c69dd7d113356e5bcb118eb6dff654cf.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 76570c8408a491c5a7143ac922ac92f9.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache f5e24168b9a8a3b521cb03ee54003fa9.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 07d6d33713e7d23e44272fb1341b6387.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 15e8127ab2291b0d811aca404fedc8a6.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache d6d47da066feb3052d4bc1dc8bac77ef.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 7d00c630d2c5388f04cd2d4c072ba328.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 13d74b37c841313f28ee623b975a02bb.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache b60b6deacb7c20334ad169bffe7458c0.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 171a24d78603082def784b2f1db9ed7d.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache a2072e966b4fcb7124c41de7f124d1a7.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache f397b3e35f1bc21bf7185f96df9111b0.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache be4ef6f91cf8fb75ade2e3ab6d979bc6.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 5907712684880ac43a0a82550310f9c4.cache pour 360000 secondes
+2017-08-31 15:02:10 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache c1919120555179a9020bff3aeb7bdaf2.cache pour 360000 secondes
+2017-08-31 15:02:11 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 04b066c645eb793d24a2caa935260f9c.cache pour 360000 secondes
+2017-08-31 15:02:14 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache 554b3c051796a9dca00c28cadda549ff.cache pour 604800 secondes
+2017-08-31 15:02:16 127.0.0.1 (pid 7892) :Pri:!INFO: Creation du cache d9556c5570fcda0e06e6c5ae74ad8427.cache pour 86400 secondes
+2017-08-31 15:08:43 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 16d6a1b647f1a5af09e6fc4c02ebcd6a.cache pour 86400 secondes
+2017-08-31 15:08:45 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache e0873dd50a332725a4910f6e1b57e1d6.cache pour 86400 secondes
+2017-08-31 15:08:47 127.0.0.1 (pid 7892) :Pub:!INFO: Creation du cache 61d3985054bbeacf699bd807c4ae5cec.cache pour 86400 secondes
+2017-09-19 10:12:30 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache ade48b8363832ac5afc3c4763b1d26a5.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache fbd09fa73f2781975d54e7c4c4ea867f.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-09-19 10:12:31 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-09-19 10:12:32 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 6fcb006d4e62fea0ade2321ad829891c.cache pour 86400 secondes
+2017-09-19 10:12:32 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-09-19 10:12:32 127.0.0.1 (pid 11420) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-09-19 10:12:33 127.0.0.1 (pid 11420) :Pub:ERREUR: Erreur connexion 0 php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+2017-09-19 17:32:19 127.0.0.1 (pid 8032) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 69ddab17fda893cafe1ff542c8727c7c.cache pour 86400 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 6b7729bf63a80053a8155afa09630d45.cache pour 86400 secondes
+2017-10-25 10:18:45 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-10-25 10:18:46 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-10-25 10:18:46 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 4d0f71e80f943292110aad73298bca59.cache pour 86400 secondes
+2017-10-25 10:18:46 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-10-25 10:18:46 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-10-25 10:18:47 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-10-25 10:18:47 127.0.0.1 (pid 11180) :Pub:ERREUR: Erreur connexion 0 php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+2017-10-25 10:19:00 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 226a1dd52369f23dbca775adc03c6522.cache pour 86400 secondes
+2017-10-25 10:19:00 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2017-10-25 10:19:00 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2017-10-25 10:19:00 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2017-10-25 10:19:00 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2017-10-25 10:19:08 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 387ba23ee98a9b512826ea4550267c42.cache pour 86400 secondes
+2017-10-25 10:19:10 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 939261ea58b4be0ebe560ebcc5053edf.cache pour 86400 secondes
+2017-10-25 10:19:12 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 34c26d899c0bd4a86f75d89b204bbc7b.cache pour 86400 secondes
+2017-10-25 10:19:13 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 6170915016fe4f2304fc495686c753bc.cache pour 86400 secondes
+2017-10-25 10:19:33 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 0e255c6f4079152dbe21de8fcbc31860.cache pour 86400 secondes
+2017-10-25 10:19:55 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 65f2ed42e9ff5ea131eb3cde4356e33e.cache pour 86400 secondes
+2017-10-25 10:20:12 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache 16d6a1b647f1a5af09e6fc4c02ebcd6a.cache pour 86400 secondes
+2017-10-25 10:20:15 127.0.0.1 (pid 11180) :Pub:!INFO: Creation du cache a56262ea7a658480150864efae0b4b51.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 14ceede651f4fc9e811c3107cd672b59.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache dcf77d00811c7ea18fc033599e908353.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2017-11-15 11:07:00 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 9590aed3dc859aadff8022ed0f6885ba.cache pour 86400 secondes
+2017-11-15 11:07:01 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2017-11-15 11:07:01 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2017-11-15 11:07:01 127.0.0.1 (pid 11364) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2017-11-15 11:07:01 127.0.0.1 (pid 11364) :Pub:ERREUR: Erreur connexion 0 php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+2018-01-11 13:49:32 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 0ef1dc44ae54f68898ebae982d62de2e.cache pour 86400 secondes
+2018-01-11 13:49:32 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 8a76141d49cd89433cf05e662e42e192.cache pour 86400 secondes
+2018-01-11 13:49:32 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 451c37fa3fa9a8a1cf664d8b3be10e49.cache pour 86400 secondes
+2018-01-11 13:49:32 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 12ed7febedba306ddc252816d23b4813.cache pour 86400 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache b5f69384522fb8d8dbc9260ef8346b78.cache pour 86400 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache c7d13a99e4e2ff535ff651df8c4d06e9.cache pour 86400 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 626d53c41e636938d56314b5b1eafb9b.cache pour 3600 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 99212cf3efe94dd6c1d239308c1dc434.cache pour 86400 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 3f05ecfe2458665d2ffe519178e56153.cache pour 604800 secondes
+2018-01-11 13:49:33 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache bec3dd900c26e3d695f6526f46a7b7ae.cache pour 604800 secondes
+2018-01-11 13:49:34 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache b9cec60bf20fc0912dff21f38edd3740.cache pour 86400 secondes
+2018-01-11 13:49:34 127.0.0.1 (pid 5824) :Pub:ERREUR: Erreur connexion 0 php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+2018-01-11 13:49:40 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 226a1dd52369f23dbca775adc03c6522.cache pour 86400 secondes
+2018-01-11 13:49:40 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 41599e0713b36fa3507c72bbf12c0557.cache pour 86400 secondes
+2018-01-11 13:49:40 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 4238073697676e62c144704a0a1ff281.cache pour 86400 secondes
+2018-01-11 13:49:40 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 042017f20307c0299daccfd6c5ccc61d.cache pour 86400 secondes
+2018-01-11 13:49:40 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 2217448d8ea7986edee8eacc34b881f5.cache pour 86400 secondes
+2018-01-11 13:50:01 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache afb5113e1746f7132aeccc8dd20e5f38.cache pour 86400 secondes
+2018-01-11 13:50:02 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache aba27044360a2842c6b3a1f8fed2dff7.cache pour 3600 secondes
+2018-01-11 13:50:02 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache 7119853825efd3554a264526dc33f382.cache pour 3600 secondes
+2018-01-11 13:50:02 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache ec7c95fd7b0fff46838f0a3e4afa3a67.cache pour 3600 secondes
+2018-01-11 13:50:09 127.0.0.1 (pid 5824) :Pub:!INFO: Creation du cache f8bd65f4d16bfb93d5c361bb7eb9c33c.cache pour 86400 secondes
+2018-01-11 13:50:11 127.0.0.1 (pid 5824) :Pri:!INFO: Creation du cache bd04773af0de040160371fd4600c84df.cache pour 86400 secondes
+2018-01-11 13:50:11 127.0.0.1 (pid 5824) :Pri:!INFO: Creation du cache 62f40c537f319a4a2e48b849022ca3fc.cache pour 86400 secondes
+2018-01-11 13:51:54 127.0.0.1 (pid 5824) :Pri:!INFO: Creation du cache 4b217aaf7e3678e09f7774a58668f13a.cache pour 86400 secondes

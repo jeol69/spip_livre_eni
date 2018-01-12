@@ -1,0 +1,60 @@
+a:2:{s:9:"nom_cache";s:38:"387ba23ee98a9b512826ea4550267c42.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_087a3e5b30a30e2152b668b95137e064";s:6:"source";s:25:"squelettes/sommaire2.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"387ba23ee98a9b512826ea4550267c42.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3200:"<?php
+  $url_accueil = "http://spip316.localhost/?page=sommaire2";
+?><!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+         
+        <?php echo recuperer_fond( 'inclure/head2', array('lang' => 'fr'), array("compil"=>array('squelettes/sommaire2.html','html_087a3e5b30a30e2152b668b95137e064','',8,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </head>
+    <body>
+         
+        <?php echo recuperer_fond( 'inclure/entete', array('lang' => 'fr'), array("compil"=>array('squelettes/sommaire2.html','html_087a3e5b30a30e2152b668b95137e064','',13,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <?php echo recuperer_fond( 'inclure/navigation', array('lang' => 'fr'), array("compil"=>array('squelettes/sommaire2.html','html_087a3e5b30a30e2152b668b95137e064','',16,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <div class="row">
+            <div class="small-12 large-6 columns">
+                
+                    <h2><a href="article19.html">Mes voyages</a></h2>
+                    <img class="spip_logo spip_logos" alt="" src="IMG/arton19.png?1503418704" width="261" height="102" />
+                    <p><p>Ma conception des voyages. Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d&#8217;entre elles a été altérée.</p></p>
+                
+            </div>
+            <div class="small-12 large-6 columns">
+                
+                    <h2><a href="article18.html">Mes destinations</a></h2>
+                    <img class="spip_logo spip_logos" alt="" src="IMG/arton18.png?1503418680" width="261" height="102" />
+                    <p><p>Comment je choisis mes destinations. Le Lorem Ipsum n&#8217;est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique.</p></p>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-12 large-6 columns">
+                
+                    <h2><a href="article17.html">Les transports</a></h2>
+                    <img class="spip_logo spip_logos" alt="" src="IMG/arton17.png?1503418660" width="261" height="104" />
+                    <p><p>Les moyens de transport utilisés. Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu&#8217;il n&#8217;y a rien d&#8217;embarrassant caché dans le texte.</p></p>
+                
+            </div>
+            <div class="small-12 large-6 columns">
+                
+                    <h2><a href="article16.html">L&#8217;hébergement</a></h2>
+                    <img class="spip_logo spip_logos" alt="" src="IMG/arton16.png?1503418637" width="261" height="104" />
+                    <p><p>Les lieux d&#8217;hébergement. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut.</p></p>
+                
+            </div>
+        </div>
+
+         
+        <?php echo recuperer_fond( 'inclure/pieddepage', array('lang' => 'fr'), array("compil"=>array('squelettes/sommaire2.html','html_087a3e5b30a30e2152b668b95137e064','',53,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </body>
+</html>";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"page";s:9:"sommaire2";s:4:"date";s:19:"2017-10-25 10:19:08";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-10-25 10:19:08";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1508919548;s:2:"gz";b:0;s:3:"sig";i:-1772831888;}}

@@ -1,0 +1,179 @@
+a:2:{s:9:"nom_cache";s:38:"2217448d8ea7986edee8eacc34b881f5.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_92a73124dc2686fa7706b81d956b752f";s:6:"source";s:34:"squelettes/inclure/pieddepage.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"2217448d8ea7986edee8eacc34b881f5.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:4585:"
+<div class="row bleuClair">
+
+    
+    <div class="small-12 large-3 columns">
+        <h4>Voyages en Europe</h4>
+
+        
+         
+            <p> 
+                 
+                    <a href="article5.html">L&#8217;Ile de Noirmoutier</a><br/> 
+                 
+                    <a href="article4.html">Le Golfe du Morbihan</a><br/> 
+                 
+                    <a href="article3.html">Le Port de Saint-Nazaire</a><br/> 
+                 
+                    <a href="article1.html">Le sud Loire à Nantes</a><br/> 
+                 
+                    <a href="article6.html">Noirmoutier</a><br/> 
+                 
+                    <a href="article2.html">Parc national des Écrin</a><br/> 
+                 
+                    <a href="article7.html">Randonnée à La Roquebrussanne</a><br/> 
+                 
+            </p> 
+        
+
+    </div>
+
+     
+    <div class="small-12 large-3 columns"> 
+        <h4>Voyages aux États-Unis</h4> 
+
+         
+         
+            <p> 
+                 
+                    <a href="article20.html">Miami</a><br/> 
+                 
+                    <a href="article21.html">New York</a><br/> 
+                 
+            </p> 
+        </B_articles_europe>
+
+    </div>
+
+     
+    <div class="small-12 large-3 columns"> 
+        <h4>Liste des destinations</h4> 
+         
+            <p> 
+                
+                
+                    
+                    <a href="rubrique2.html">Loire Atlantique</a><br/> 
+                
+                    
+                    <a href="rubrique3.html">Morbihan</a><br/> 
+                
+                    
+                    <a href="rubrique5.html">Hautes-Alpes</a><br/> 
+                
+                    
+                    <a href="rubrique6.html">Var</a><br/> 
+                
+                    
+                    <a href="rubrique7.html">Ille-et-Vilaine</a><br/> 
+                 
+            </p> 
+         
+    </div>
+
+     
+    <div class="small-12 large-3 columns"> 
+        <h4>Liste des mots-clés</h4> 
+         
+            <p> 
+                 
+                    <a href="mot1.html">Montagne</a> 
+                    <span class="badge"> 
+
+                         
+                        
+                        0
+                        
+
+                    </span><br />
+                 
+                    <a href="mot2.html">Campagne</a> 
+                    <span class="badge"> 
+
+                         
+                        
+                        0
+                        
+
+                    </span><br />
+                 
+                    <a href="mot3.html">Mer</a> 
+                    <span class="badge"> 
+
+                         
+                         
+                             
+                             
+                            2 
+                        
+
+                    </span><br />
+                 
+                    <a href="mot4.html">Ville</a> 
+                    <span class="badge"> 
+
+                         
+                        
+                        0
+                        
+
+                    </span><br />
+                 
+                    <a href="mot5.html">Logiciel</a> 
+                    <span class="badge"> 
+
+                         
+                        
+                        0
+                        
+
+                    </span><br />
+                 
+                    <a href="mot6.html">Matériel</a> 
+                    <span class="badge"> 
+
+                         
+                        
+                        0
+                        
+
+                    </span><br />
+                 
+                    <a href="mot7.html">Prise de vue</a> 
+                    <span class="badge"> 
+
+                         
+                         
+                             
+                            1 
+                        
+
+                    </span><br />
+                 
+                    <a href="mot8.html">Photographie</a> 
+                    <span class="badge"> 
+
+                         
+                         
+                             
+                            1 
+                        
+
+                    </span><br />
+                 
+                    <a href="mot9.html">Tableau</a> 
+                    <span class="badge"> 
+
+                         
+                         
+                             
+                            1 
+                        
+
+                    </span><br />
+                 
+            </p> 
+         
+    </div>
+
+</div>";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2018-01-11 13:49:40";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2018-01-11 13:49:40";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1515674980;s:2:"gz";b:0;s:3:"sig";i:1621384376;}}

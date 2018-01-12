@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="#LANG">
+    <head>
+
+        [(#REM) Inclure le <head> des pages] 
+        <INCLURE{fond=inclure/head2}>
+
+        [(#REM) Les balises <meta>]
+
+    </head>
+    <body>
+
+        [(#REM) Inclure l’en-tête du site] 
+        <INCLURE{fond=inclure/entete}>
+
+        [(#REM) Inclure la barre de navigation] 
+        <INCLURE{fond=inclure/navigation}>
+
+        [(#REM) Contenu de la rubrique]
+        <div class="row">
+            <div class="small-12 columns">
+                <BOUCLE_rubrique(RUBRIQUES){id_rubrique}>
+                    <h3>Rubrique : #TITRE</h3>
+                    <p>#LOGO_RUBRIQUE</p>
+                    #TEXTE
+                    <p>Date de la dernière publication dans cette rubrique : [(#DATE|affdate)].</p>
+                    [(#REM) La boucle pour lister les articles de la rubrique]
+                    <h3>
+                        <B_nb_articles>
+                            <BOUCLE_nb_articles(ARTICLES){id_rubrique}> </BOUCLE_nb_articles>[(#TOTAL_BOUCLE|<{2}|?{Article,Liste des #TOTAL_BOUCLE articles})]
+                            de cette rubrique :
+                        </B_nb_articles>
+                    </h3>
+                    <B_articles_rubrique>
+                        <BOUCLE_articles_rubrique(ARTICLES){id_rubrique}> 
+                            <p>
+                                [(#COMPTEUR_BOUCLE)])
+                                <a href="#URL_ARTICLE">#TITRE</a> 
+                                (Rédigé par : #LESAUTEURS, publié le [(#DATE|affdate)]).
+                            </p> 
+                        </BOUCLE_articles_rubrique>
+                    </B_articles_rubrique>
+                </BOUCLE_rubrique>
+            </div>
+        </div>
+
+        [(#REM) Inclure le pied de page du site] 
+        <INCLURE{fond=inclure/pieddepage}>
+
+    </body>
+</html>

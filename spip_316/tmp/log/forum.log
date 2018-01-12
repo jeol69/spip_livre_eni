@@ -1,0 +1,12 @@
+2017-07-24 17:48:17 127.0.0.1 (pid 10912) :Pub:!INFO: update thread id_thread=1 avec array (
+  'id_objet' => '5',
+  'objet' => 'article',
+)
+2017-07-24 17:48:56 127.0.0.1 (pid 10912) :Pub:!INFO: update thread id_thread=1 avec array (
+  'id_objet' => '5',
+  'objet' => 'article',
+)
+2017-07-28 13:50:41 127.0.0.1 (pid 6924) :Pri:!INFO: update thread id_thread=6 avec array (
+  'id_objet' => '4',
+  'objet' => 'article',
+)

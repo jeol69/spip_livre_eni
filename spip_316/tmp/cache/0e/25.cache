@@ -1,0 +1,56 @@
+a:2:{s:9:"nom_cache";s:38:"0e255c6f4079152dbe21de8fcbc31860.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_0caead67327defaf94febb642f511490";s:6:"source";s:24:"squelettes/rubrique.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"0e255c6f4079152dbe21de8fcbc31860.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:2142:"<!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+         
+        <?php echo recuperer_fond( 'inclure/head2', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+
+    </head>
+    <body>
+
+         
+        <?php echo recuperer_fond( 'inclure/entete', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',14,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <?php echo recuperer_fond( 'inclure/navigation', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+        <div class="row">
+            <div class="small-12 columns">
+                
+                    <h3>Rubrique : Contenu général</h3>
+                    <p><img class="spip_logo spip_logos" alt="" src="IMG/rubon0.png?1500571264" width="150" height="144" /></p>
+                    
+                    <p>Date de la dernière publication dans cette rubrique : 28 juillet 2017.</p>
+                    
+                    <h3>
+                        
+                             Article
+                            de cette rubrique :
+                        
+                    </h3>
+                    
+                         
+                            <p>
+                                1)
+                                <a href="article10.html">Contactez-nous</a> 
+                                (Rédigé par : <span class="vcard author"><a class="url fn spip_in" href="auteur1.html">Jérome LAURENT</a></span>, publié le 28 juillet 2017).
+                            </p> 
+                        
+                    
+                
+            </div>
+        </div>
+
+         
+        <?php echo recuperer_fond( 'inclure/pieddepage', array('lang' => 'fr'), array("compil"=>array('squelettes/rubrique.html','html_0caead67327defaf94febb642f511490','',48,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </body>
+</html>
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:8:"rubrique";s:11:"id_rubrique";s:2:"10";s:4:"date";s:19:"2017-10-25 10:19:32";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-10-25 10:19:32";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1508919572;s:2:"gz";b:0;s:3:"sig";i:1891152012;}}

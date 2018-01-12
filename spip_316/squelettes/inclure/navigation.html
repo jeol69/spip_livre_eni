@@ -1,0 +1,13 @@
+[(#REM) Barre de navigation]
+<div class="row">
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <ul class="menu">
+                <li><a href="#URL_SITE_SPIP<?=_SOMMAIRE_VOYAGES?>">Accueil</a></li>
+                <BOUCLE_pages_statiques(ARTICLES){par id_article}{id_rubrique=11}> 
+                    <li><a href="#URL_ARTICLE">#TITRE</a></li> 
+                </BOUCLE_pages_statiques>
+            </ul>
+        </div>
+    </div>
+</div>

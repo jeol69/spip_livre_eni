@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="#LANG">
+    <head>
+
+        [(#REM) Inclure le <head> des pages] 
+        <INCLURE{fond=inclure/head2}>
+
+        [(#REM) Les balises <meta>]
+
+    </head>
+    <body>
+
+        [(#REM) Inclure l’en-tête du site] 
+        <INCLURE{fond=inclure/entete}>
+
+        [(#REM) Inclure la barre de navigation] 
+        <INCLURE{fond=inclure/navigation}>
+
+        [(#REM) Contenu des mots cles des articles]
+        <div class="row">
+            <div class="small-12 columns">
+                <BOUCLE_mot_cle(MOTS){id_mot}>
+                    <h3>Mot-clé : #TITRE</h3>
+                    <p>#LOGO_MOT</p>
+                    #TEXTE
+                    [(#REM) La boucle pour lister les articles du mot-clé]
+                    <h3>
+                        <B_nb_articles>
+                            <BOUCLE_nb_articles(ARTICLES){id_mot}> </BOUCLE_nb_articles>[(#TOTAL_BOUCLE|<{2}|?{Article,Liste des #TOTAL_BOUCLE articles})]
+                            de ce mot-clé :
+                        </B_nb_articles>
+                    </h3>
+                    <B_articles_mot_cle>
+                        <BOUCLE_articles_mot_cle(ARTICLES){id_mot}> 
+                            <p>
+                                [(#COMPTEUR_BOUCLE)])
+                                <a href="#URL_ARTICLE">#TITRE</a> 
+                                (Rédigé par : #LESAUTEURS, publié le [(#DATE|affdate)]).
+                            </p> 
+                        </BOUCLE_articles_mot_cle>
+                    </B_articles_mot_cle>
+                </BOUCLE_mot_cle>
+            </div>
+        </div>
+
+        [(#REM) Inclure le pied de page du site] 
+        <INCLURE{fond=inclure/pieddepage}>
+
+    </body>
+</html>

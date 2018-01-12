@@ -1,0 +1,10 @@
+a:2:{s:9:"nom_cache";s:38:"4238073697676e62c144704a0a1ff281.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_76f4c4ad7dd9feff9581fef7b3587cfa";s:6:"source";s:30:"squelettes/inclure/entete.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"4238073697676e62c144704a0a1ff281.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:373:"
+<div class="row">
+    <div class="small-2 columns">
+        <a href="http://spip316.localhost<?=_SOMMAIRE_VOYAGES?>"><img class="spip_logo spip_logos" alt="" src="IMG/siteon0.png?1503415326" width="100" height="100" /></a>
+    </div>
+    <div class="small-10 columns">
+        <h1>Mes voyages</h1>
+        <h2>Les pérégrinations d&#8217;un réveur</h2>
+    </div>
+</div>";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2018-01-11 13:49:40";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2018-01-11 13:49:40";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1515674980;s:2:"gz";b:0;s:3:"sig";i:-510099074;}}

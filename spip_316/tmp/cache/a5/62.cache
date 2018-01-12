@@ -1,0 +1,44 @@
+a:2:{s:9:"nom_cache";s:38:"a56262ea7a658480150864efae0b4b51.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_337d5395cd2b6c87077bfbb3e9f107f6";s:6:"source";s:19:"squelettes/mot.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"a56262ea7a658480150864efae0b4b51.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:1377:"<!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+         
+        <?php echo recuperer_fond( 'inclure/head2', array('lang' => 'fr'), array("compil"=>array('squelettes/mot.html','html_337d5395cd2b6c87077bfbb3e9f107f6','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+
+    </head>
+    <body>
+
+         
+        <?php echo recuperer_fond( 'inclure/entete', array('lang' => 'fr'), array("compil"=>array('squelettes/mot.html','html_337d5395cd2b6c87077bfbb3e9f107f6','',14,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <?php echo recuperer_fond( 'inclure/navigation', array('lang' => 'fr'), array("compil"=>array('squelettes/mot.html','html_337d5395cd2b6c87077bfbb3e9f107f6','',17,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+        <div class="row">
+            <div class="small-12 columns">
+                
+                    <h3>Mot-clé : Matériel</h3>
+                    <p></p>
+                    
+                    
+                    <h3>
+                        
+                    </h3>
+                    
+                
+            </div>
+        </div>
+
+         
+        <?php echo recuperer_fond( 'inclure/pieddepage', array('lang' => 'fr'), array("compil"=>array('squelettes/mot.html','html_337d5395cd2b6c87077bfbb3e9f107f6','',47,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </body>
+</html>
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:3:"mot";s:6:"id_mot";s:1:"6";s:4:"date";s:19:"2017-10-25 10:20:15";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-10-25 10:20:15";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1508919615;s:2:"gz";b:0;s:3:"sig";i:753088389;}}

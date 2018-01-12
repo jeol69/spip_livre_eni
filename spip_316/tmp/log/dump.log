@@ -1,0 +1,51 @@
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:!INFO: Copier 31 tables de '' vers 'dump'
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_articles' sur serveur 'dump'
+2017-08-28 15:22:51 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_articles 20
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_auteurs_liens' sur serveur 'dump'
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_auteurs_liens 25
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_breves' sur serveur 'dump'
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_breves 2
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_depots' sur serveur 'dump'
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_depots_plugins' sur serveur 'dump'
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_documents' sur serveur 'dump'
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_documents 2
+2017-08-28 15:22:52 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_documents_liens' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_documents_liens 1
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_forum' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_forum 6
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_groupes_mots' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_groupes_mots 3
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_jobs' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_jobs 7
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_jobs_liens' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_messages' sur serveur 'dump'
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_messages 4
+2017-08-28 15:22:53 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_mots' sur serveur 'dump'
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_mots 9
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_mots_liens' sur serveur 'dump'
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_mots_liens 6
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_paquets' sur serveur 'dump'
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_paquets 31
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_petitions' sur serveur 'dump'
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_petitions 1
+2017-08-28 15:22:54 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_plugins' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_plugins 31
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_referers' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_referers_articles' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_rubriques' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_rubriques 14
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_signatures' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_syndic' sur serveur 'dump'
+2017-08-28 15:22:55 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_syndic_articles' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_types_documents' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_types_documents 170
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_urls' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_versions' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_versions_fragments' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_visites' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_visites_articles' sur serveur 'dump'
+2017-08-28 15:22:56 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_auteurs' sur serveur 'dump'
+2017-08-28 15:22:57 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_auteurs 7
+2017-08-28 15:22:57 127.0.0.1 (pid 12384) :Pri:!INFO: creation 'spip_meta' sur serveur 'dump'
+2017-08-28 15:22:57 127.0.0.1 (pid 12384) :Pri:!INFO: recopie spip_meta 130
+2017-08-28 15:22:57 127.0.0.1 (pid 12384) :Pri:!INFO: Pas de destruction copieur sur serveur 'dump'

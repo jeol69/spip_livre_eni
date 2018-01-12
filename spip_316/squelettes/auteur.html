@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="#LANG">
+    <head>
+
+        [(#REM) Inclure le <head> des pages] 
+        <INCLURE{fond=inclure/head2}>
+
+        [(#REM) Les balises <meta>]
+
+    </head>
+    <body>
+
+        [(#REM) Inclure l’en-tête du site] 
+        <INCLURE{fond=inclure/entete}>
+
+        [(#REM) Inclure la barre de navigation] 
+        <INCLURE{fond=inclure/navigation}>
+
+        [(#REM) Contenu de la rubrique]
+        <div class="row">
+            <div class="small-12 columns">
+                <BOUCLE_auteur(AUTEURS){id_auteur}>
+                    <h3>NOM : #NOM</h3>
+                    <p>#LOGO_AUTEUR</p>
+                    <p><strong>Mail</strong> : #EMAIL</p>
+                    #BIO
+                    <p>
+                        <strong>Nom du site web</strong> :
+                        <a href="#URL_SITE">#NOM_SITE</a>
+                    </p>
+                    [(#REM) La boucle pour lister les articles de l'auteur sauf ceux de l’accueil et de la navigation]
+                    <h3>
+                        <B_nb_articles>
+                            <BOUCLE_nb_articles(ARTICLES){id_auteur}{!id_rubrique IN 8,10,11,12,14}> </BOUCLE_nb_articles>[(#TOTAL_BOUCLE|<{2}|?{Article,Liste des #TOTAL_BOUCLE articles})]
+                            de cet auteur :
+                        </B_nb_articles>
+                    </h3>
+                    <B_articles_auteur>
+                        <BOUCLE_articles_auteur(ARTICLES){id_auteur}{!id_rubrique IN 8,10,11,12,14}> 
+                            <p>
+                                [(#COMPTEUR_BOUCLE)])
+                                <a href="#URL_ARTICLE">#TITRE</a> 
+                                (publié le [(#DATE|affdate)],
+                                
+                                <B_rubrique>
+                                    <BOUCLE_rubrique(RUBRIQUES){id_rubrique}>
+                                        dans la rubrique <a href="#URL_RUBRIQUE">#TITRE</a>.<br />
+                                    </BOUCLE_rubrique>
+                                </B_rubrique>
+                            </p> 
+                        </BOUCLE_articles_auteur>
+                    </B_articles_auteur>
+                </BOUCLE_auteur>
+            </div>
+        </div>
+
+        [(#REM) Inclure le pied de page du site] 
+        <INCLURE{fond=inclure/pieddepage}>
+
+    </body>
+</html>

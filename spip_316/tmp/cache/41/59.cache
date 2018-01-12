@@ -1,0 +1,9 @@
+a:2:{s:9:"nom_cache";s:38:"41599e0713b36fa3507c72bbf12c0557.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_4fc5e91228209043eb4785f8979cef74";s:6:"source";s:29:"squelettes/inclure/head2.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"41599e0713b36fa3507c72bbf12c0557.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:309:"
+<title>Mes voyages</title>
+
+<meta charset="utf-8" />
+<meta name="description" content="Mes récits de voyages, mes aventures de marche" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css" />
+<link rel="stylesheet" href="squelettes/css/app.css" />
+";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2018-01-11 13:49:40";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2018-01-11 13:49:40";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1515674980;s:2:"gz";b:0;s:3:"sig";i:203342905;}}

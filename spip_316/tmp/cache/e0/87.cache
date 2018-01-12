@@ -1,0 +1,59 @@
+a:2:{s:9:"nom_cache";s:38:"e0873dd50a332725a4910f6e1b57e1d6.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_acfb689da8b7f0df9e71fabce85f186f";s:6:"source";s:23:"squelettes/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"e0873dd50a332725a4910f6e1b57e1d6.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:2757:"<!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+         
+        <?php echo recuperer_fond( 'inclure/head2', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+
+        
+        <meta name="author" content="J&#233;rome LAURENT" />
+
+        
+        
+
+    </head>
+    <body>
+
+         
+        <?php echo recuperer_fond( 'inclure/entete', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',26,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <?php echo recuperer_fond( 'inclure/navigation', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',29,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+        <div class="row">
+            <div class="small-12 columns">
+                 
+                    <h2>Miami</h2>
+                    
+                    <p>Qu&#8217;est-ce que le Lorem Ipsum&nbsp;?</p>
+<p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l&#8217;imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n&#8217;a pas fait que survivre cinq siècles, mais s&#8217;est aussi adapté à la bureautique informatique, sans que son contenu n&#8217;en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p>
+                    <blockquote>
+                        Publié le 23/08/2017.<br />
+                        
+                        Rédigé par <span class="vcard author"><a class="url fn spip_in" href="auteur1.html">Jérome LAURENT</a></span>.<br />
+                        
+                            
+                                Classé dans la rubrique : <a href="rubrique14.html">Voyages Etats Unis</a>.<br />
+                            
+                        
+                         
+                            Il n’y a pas de mot-clé associé à cet article. 
+                         
+                    </blockquote>
+                
+            </div>
+        </div>
+
+         
+        <?php echo recuperer_fond( 'inclure/pieddepage', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',65,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </body>
+</html>
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:7:"article";s:10:"id_article";s:2:"20";s:4:"date";s:19:"2017-08-31 15:08:45";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-08-31 15:08:45";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1504184925;s:2:"gz";b:0;s:3:"sig";i:722825080;}}

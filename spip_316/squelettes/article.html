@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="#LANG">
+    <head>
+
+        [(#REM) Inclure le <head> des pages] 
+        <INCLURE{fond=inclure/head2}>
+
+        [(#REM) Les balises <meta>]
+
+        [(#REM) Liste des AUTEURS de l'article]
+        <meta name="author" content="[(#LESAUTEURS|attribut_html)]" />
+
+        [(#REM) Liste des MOTS CLES de l'article]
+        <B_keywords> 
+            <meta name="keywords" content=" 
+               <BOUCLE_keywords(MOTS) {id_article} {","}> 
+                  [(#TITRE|attribut_html)] 
+               </BOUCLE_keywords> 
+            " /> 
+        </B_keywords>
+
+    </head>
+    <body>
+
+        [(#REM) Inclure l’en-tête du site] 
+        <INCLURE{fond=inclure/entete}>
+
+        [(#REM) Inclure la barre de navigation] 
+        <INCLURE{fond=inclure/navigation}>
+
+        [(#REM) Contenu de l'article]
+        <div class="row">
+            <div class="small-12 columns">
+                <BOUCLE_article(ARTICLES){id_article}> 
+                    <h2>#TITRE</h2>
+                    [<p>(#LOGO_ARTICLE|image_reduire{400,400})</p>]
+                    #TEXTE
+                    <blockquote>
+                        Publié le [(#DATE|affdate{"d/m/Y"})].<br />
+                        [(#REM)
+                            auteur en texte brut : [(#LESAUTEURS|attribut_html)]
+                        ]
+                        Rédigé par #LESAUTEURS.<br />
+                        <B_rubrique>
+                            <BOUCLE_rubrique(RUBRIQUES){id_rubrique}{id_rubrique!="11"}>
+                                Classé dans la rubrique : <a href="[(#ID_RUBRIQUE|!=={"12"}|?{#URL_RUBRIQUE, #URL_SITE_SPIP<?=_SOMMAIRE_VOYAGES?>})]">#TITRE</a>.<br />
+                            </BOUCLE_rubrique>
+                        </B_rubrique>
+                        <B_mots_cles> 
+                            <p>Mots-clés : 
+                                <BOUCLE_mots_cles(MOTS){id_article}> 
+                                    <a href="#URL_MOT">#TITRE</a> 
+                                    [(#COMPTEUR_BOUCLE|!=={#TOTAL_BOUCLE}|?{", ","."})] 
+                                </BOUCLE_mots_cles> 
+                            </p> 
+                         </B_mots_cles> 
+                            Il n’y a pas de mot-clé associé à cet article. 
+                         <//B_mots_cles>
+                    </blockquote>
+                </BOUCLE_article>
+            </div>
+        </div>
+
+        [(#REM) Inclure le pied de page du site] 
+        <INCLURE{fond=inclure/pieddepage}>
+
+    </body>
+</html>

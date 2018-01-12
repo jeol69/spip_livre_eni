@@ -1,0 +1,84 @@
+[(#REM) Le pied de page du site]
+<div class="row bleuClair">
+
+    [(#REM) Liste des articles de la rubrique Europe]
+    <div class="small-12 large-3 columns">
+        <h4>Voyages en Europe</h4>
+
+        [(#REM) Les articles de la rubrique Europe]
+        <B_articles_europe> 
+            <p> 
+                <BOUCLE_articles_europe(ARTICLES){par titre}{id_secteur=13}> 
+                    <a href="#URL_ARTICLE">#TITRE</a><br/> 
+                </BOUCLE_articles_europe> 
+            </p> 
+        </B_articles_europe>
+
+    </div>
+
+    [(#REM) Liste des articles de la rubrique Etats-Unis] 
+    <div class="small-12 large-3 columns"> 
+        <h4>Voyages aux États-Unis</h4> 
+
+        [(#REM) Les articles de la rubrique Etats-Unis] 
+        <B_articles_eu> 
+            <p> 
+                <BOUCLE_articles_eu(ARTICLES){par titre}{id_secteur=14}> 
+                    <a href="#URL_ARTICLE">#TITRE</a><br/> 
+                </BOUCLE_articles_eu> 
+            </p> 
+        </B_articles_europe>
+
+    </div>
+
+    [(#REM) Liste des rubriques des articles, sauf Accueil et Pages statiques] 
+    <div class="small-12 large-3 columns"> 
+        <h4>Liste des destinations</h4> 
+        <B_rubriques> 
+            <p> 
+                [(#REM)
+                     1 - Ouest de la France
+                     4 - Sud de la France
+                     8 - Publication de Video
+                     9 - Orange
+                    10 - Contenu général
+                    11 - Pages statiques
+                    12 - Accueil
+                    13 - Voyages en Europe
+                    14 - Voyages Etats Unis
+                    {id_rubrique!='1'}{id_rubrique!='4'}{id_rubrique!='8'}...
+                       ou bien {!where id_rubrique in (1,4,8,9,10,11,12,13,14)}
+                       ou bien {!id_rubrique IN 1,4,8,9,10,11,12,13,14}
+                    ]
+                <BOUCLE_rubriques(RUBRIQUES){!id_rubrique IN 1,4,8,9,10,11,12,13,14}>
+                    
+                    <a href="#URL_RUBRIQUE">#TITRE</a><br/> 
+                </BOUCLE_rubriques> 
+            </p> 
+        </B_rubriques> 
+    </div>
+
+    [(#REM) Liste des mots-clés] 
+    <div class="small-12 large-3 columns"> 
+        <h4>Liste des mots-clés</h4> 
+        <B_mots_cle> 
+            <p> 
+                <BOUCLE_mots_cle(MOTS)> 
+                    <a href="#URL_MOT">#TITRE</a> 
+                    <span class="badge"> 
+
+                        [(#REM) Affichage du nombre d’article par mot-clé] 
+                        <B_nb_articles> 
+                            <BOUCLE_nb_articles(ARTICLES){id_mot}> 
+                            </BOUCLE_nb_articles>[(#TOTAL_BOUCLE|=={"0"}|?{"0", #TOTAL_BOUCLE})] 
+                        </B_nb_articles>
+                        0
+                        <//B_nb_articles>
+
+                    </span><br />
+                </BOUCLE_mots_cle> 
+            </p> 
+        </B_mots_cle> 
+    </div>
+
+</div>

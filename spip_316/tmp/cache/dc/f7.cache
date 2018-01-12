@@ -1,0 +1,131 @@
+a:2:{s:9:"nom_cache";s:38:"dcf77d00811c7ea18fc033599e908353.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_0a109c5a6be58a6cea0901e1286fc6e2";s:6:"source";s:36:"squelettes-dist/inclure/recents.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"dcf77d00811c7ea18fc033599e908353.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:10964:"
+<div class="menu menu_articles" id="articles_recents">
+	<h2 class="offscreen">Articles les plus récents</h2>
+	<a name='pagination_articles' id='pagination_articles'></a>
+	<ul>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article7.html"><img class='spip_logo spip_logos' alt="" src="IMG/arton7.png?1503496305" width='150' height='113' /></a>
+			<h3 class="h2 entry-title"><a href="article7.html" rel="bookmark">Randonnée à La Roquebrussanne</a></h3>
+			<small><abbr class="published" title="2017-08-23T13:40:09Z">23 août</abbr>, par  Jerome Auteur 1</small>
+			<div class="crayon article-intro-7 introduction entry-content">
+<p>D’où vient-il&nbsp;? 
+<br class='autobr' />
+Contrairement à une opinion répandue, le Lorem Ipsum n’est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article21.html"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L150xH144/rubon0-37e4c.png?1504184473" width='150' height='144' /></a>
+			<h3 class="h2 entry-title"><a href="article21.html" rel="bookmark">New York</a></h3>
+			<small><abbr class="published" title="2017-08-23T11:03:55Z">23 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-21 introduction entry-content">
+<p>Du texte. Du texte.’ est qu’il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. 
+<br class='autobr' />
+Pourquoi l’utiliser&nbsp;? 
+<br class='autobr' />
+On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L’avantage du Lorem Ipsum sur un texte générique comme ’Du texte. Du texte. Du texte.’ est qu’il possède une distribution de lettres plus ou moins normale, et en&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article20.html"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L150xH144/rubon0-37e4c.png?1504184473" width='150' height='144' /></a>
+			<h3 class="h2 entry-title"><a href="article20.html" rel="bookmark">Miami</a></h3>
+			<small><abbr class="published" title="2017-08-23T11:02:49Z">23 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-20 introduction entry-content">
+<p>Il n’a pas fait que survivre cinq siècles, mais s’est aussi adapté à la bureautique informatique, sans que son contenu n’en soit modifié 
+<br class='autobr' />
+Qu’est-ce que le Lorem Ipsum&nbsp;? 
+<br class='autobr' />
+Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l’imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n’a pas fait que survivre&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article19.html"><img class='spip_logo spip_logos' alt="" src="IMG/arton19.png?1503418704" width='150' height='59' /></a>
+			<h3 class="h2 entry-title"><a href="article19.html" rel="bookmark">Mes voyages</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:52:02Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-19 introduction entry-content">
+<p>Ma conception des voyages. Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d’entre elles a été altérée. 
+<br class='autobr' />
+Ma conception des voyages. Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d’entre elles a été altérée. 
+<br class='autobr' />
+Rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article18.html"><img class='spip_logo spip_logos' alt="" src="IMG/arton18.png?1503418680" width='150' height='59' /></a>
+			<h3 class="h2 entry-title"><a href="article18.html" rel="bookmark">Mes destinations</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:51:31Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-18 introduction entry-content">
+<p>Comment je choisis mes destinations. Le Lorem Ipsum n’est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique. 
+<br class='autobr' />
+rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et en 
+<br class='autobr' />
+rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs,&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article17.html"><img class='spip_logo spip_logos' alt="" src="IMG/arton17.png?1503418660" width='150' height='60' /></a>
+			<h3 class="h2 entry-title"><a href="article17.html" rel="bookmark">Les transports</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:50:53Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-17 introduction entry-content">
+<p>Les moyens de transport utilisés. Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu’il n’y a rien d’embarrassant caché dans le texte. 
+<br class='autobr' />
+rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et en 
+<br class='autobr' />
+rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur,&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article16.html"><img class='spip_logo spip_logos' alt="" src="IMG/arton16.png?1503418637" width='150' height='60' /></a>
+			<h3 class="h2 entry-title"><a href="article16.html" rel="bookmark">L&#8217;hébergement</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:50:04Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-16 introduction entry-content">
+<p>Les lieux d’hébergement. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut. 
+<br class='autobr' />
+rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et en</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article12.html"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L150xH144/rubon0-37e4c.png?1504184473" width='150' height='144' /></a>
+			<h3 class="h2 entry-title"><a href="article12.html" rel="bookmark">Projets</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:39:19Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-12 introduction entry-content">
+<p>Où puis-je m’en procurer&nbsp;? 
+<br class='autobr' />
+Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la majeure partie d’entre elles a été altérée par l’addition d’humour ou de mots aléatoires qui ne ressemblent pas une seconde à du texte standard. Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu’il n’y a rien d’embarrassant caché dans le texte. Tous les générateurs de Lorem Ipsum sur Internet tendent à reproduire le même extrait sans fin, ce qui fait de lipsum.com le seul vrai&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article13.html"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L150xH144/rubon0-37e4c.png?1504184473" width='150' height='144' /></a>
+			<h3 class="h2 entry-title"><a href="article13.html" rel="bookmark">Equipe</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:38:31Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-13 introduction entry-content">
+<p>D’où vient-il&nbsp;? 
+<br class='autobr' />
+Contrairement à une opinion répandue, le Lorem Ipsum n’est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s’est intéressé à un des mots latins les plus obscurs, consectetur, extrait d’un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du&nbsp;(...)</p>
+</div>
+		</li>
+		
+		<li dir="ltr" class="hentry clearfix text-left">
+			<a href="article14.html"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L150xH144/rubon0-37e4c.png?1504184473" width='150' height='144' /></a>
+			<h3 class="h2 entry-title"><a href="article14.html" rel="bookmark">Conférences</a></h3>
+			<small><abbr class="published" title="2017-08-22T15:36:54Z">22 août</abbr>, par  Jérome LAURENT</small>
+			<div class="crayon article-intro-14 introduction entry-content">
+<p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l’imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n’a pas fait que survivre cinq siècles, mais s’est aussi adapté à la bureautique informatique, sans que son contenu n’en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente&nbsp;(...)</p>
+</div>
+		</li>
+		
+	</ul>
+	<p class="pagination"><span
+	class="prev disabled"><strong class='on' rel='prev'>page précédente</strong><span  
+	class='sep'> | </span></span><span
+	class="next"><a href='./?debut_articles=10#pagination_articles' class='lien_pagination' rel='next'>page suivante</a></span></p>
+</div><!--#articles_recents-->
+";s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"date";s:19:"2017-11-15 11:06:59";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-11-15 11:06:59";s:18:"date_redac_default";b:1;s:4:"lang";s:2:"fr";}s:12:"lastmodified";i:1510740419;s:2:"gz";b:0;s:3:"sig";i:2117783085;}}

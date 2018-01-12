@@ -1,0 +1,10 @@
+2017-08-21 16:07:49 127.0.0.1 (pid 7792) :Pub:ERREUR: Erreur 1064 de mysql: Erreur de syntaxe près de 'DESC
+LIMIT 0,10' à la ligne 6
+in C:\applications\spip\spip_316\ecrire\public\composer.php L1005 [sql_select(),calculer_select(),select(),__construct(),create(),BOUCLE_articlehtml_dbf86119c51560db20bea2879f0ac303(),html_dbf86119c51560db20bea2879f0ac303(),public_parametrer_dist(),public_produire_page_dist(),assembler(),include()]
+SELECT articles.id_article, articles.titre, articles.lang
+FROM `spip`.spip_articles AS `articles`
+WHERE (articles.statut = 'publie')
+	AND (articles.id_rubrique = 1)
+	AND (articles.date = '2017-08-21 16:07:49')
+ORDER BY DESC
+LIMIT 0,10

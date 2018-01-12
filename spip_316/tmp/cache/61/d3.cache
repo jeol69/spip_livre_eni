@@ -1,0 +1,61 @@
+a:2:{s:9:"nom_cache";s:38:"61d3985054bbeacf699bd807c4ae5cec.cache";s:6:"valeur";a:12:{s:9:"squelette";s:37:"html_acfb689da8b7f0df9e71fabce85f186f";s:6:"source";s:23:"squelettes/article.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:38:"61d3985054bbeacf699bd807c4ae5cec.cache";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"texte";s:3865:"<!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+         
+        <?php echo recuperer_fond( 'inclure/head2', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+
+        
+        <meta name="author" content="J&#233;rome LAURENT" />
+
+        
+        
+
+    </head>
+    <body>
+
+         
+        <?php echo recuperer_fond( 'inclure/entete', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',26,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+         
+        <?php echo recuperer_fond( 'inclure/navigation', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',29,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+        
+        <div class="row">
+            <div class="small-12 columns">
+                 
+                    <h2>Le Port de Saint-Nazaire</h2>
+                    <p><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L220xH124/arton3-28f74.png?1504184927" width='220' height='124' /></p>
+                    <h3 class="spip">Quisque magna tellus.</h3>
+<p>haretra id volutpat eu, lobortis vel nisl. Integer placerat velit mollis eleifend porta. Curabitur mollis, metus id tempor efficitur, urna neque condimentum libero, quis eleifend leo ante sit amet sem. Nulla id laoreet diam. Donec ultricies imperdiet nisi, ac ullamcorper orci. Sed et sem in lectus laoreet faucibus. Donec vestibulum consequat vulputate. Nam convallis nisi nibh, ut cursus velit elementum sit amet. Quisque iaculis, ante vel commodo accumsan, arcu neque tempor justo, vitae euismod odio lacus consectetur nunc. Cras faucibus, libero ac venenatis tempus, tortor nibh tincidunt nulla, nec fringilla purus neque at massa. Nam sit amet nibh diam. Nulla facilisi. Integer facilisis vehicula metus at mollis. Fusce mattis nulla non leo tempus euismod posuere at eros. Morbi accumsan varius pulvinar. Sed viverra eleifend aliquet.</p>
+<h3 class="spip">Fusce nec fermentum nisl.</h3>
+<p>Nullam at enim at dolor pretium imperdiet. Nulla pulvinar, magna eu pharetra venenatis, lacus quam convallis ipsum, in convallis nulla dolor vel nibh. Suspendisse ipsum ante, euismod vitae purus non, commodo accumsan nulla. Sed pharetra elit id est pulvinar, non fermentum eros tempus. Ut et ex pulvinar, lobortis enim aliquam, venenatis arcu. Maecenas consectetur turpis in ultrices elementum. Aenean sed malesuada ligula. Aenean tempor felis posuere arcu semper, et suscipit quam sodales. Praesent pellentesque mattis felis, ut placerat mi malesuada vel. Cras id bibendum nisl. Praesent ac congue nunc. Donec a urna at odio ultricies ultricies. Vivamus placerat lacus vitae nibh tincidunt efficitur. Duis lobortis diam at finibus malesuada. Nulla blandit aliquam dictum.</p>
+                    <blockquote>
+                        Publié le 21/08/2017.<br />
+                        
+                        Rédigé par <span class="vcard author"><a class="url fn spip_in" href="auteur1.html">Jérome LAURENT</a></span>.<br />
+                        
+                            
+                                Classé dans la rubrique : <a href="rubrique2.html">Loire Atlantique</a>.<br />
+                            
+                        
+                         
+                            Il n’y a pas de mot-clé associé à cet article. 
+                         
+                    </blockquote>
+                
+            </div>
+        </div>
+
+         
+        <?php echo recuperer_fond( 'inclure/pieddepage', array('lang' => 'fr'), array("compil"=>array('squelettes/article.html','html_acfb689da8b7f0df9e71fabce85f186f','',65,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+    </body>
+</html>
+";s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:4:"page";s:7:"article";s:10:"id_article";s:1:"3";s:4:"date";s:19:"2017-08-31 15:08:47";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2017-08-31 15:08:47";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1504184927;s:2:"gz";b:0;s:3:"sig";i:-1994632226;}}
